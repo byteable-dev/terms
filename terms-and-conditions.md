@@ -28,10 +28,10 @@ At some point, we may wish to update the app. The app is currently available on 
 
 **Changes to This Terms and Conditions**
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 
 These terms and conditions are effective as of 2021-01-31
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at rasmus@byteable.dev.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at rasmus@byteable.dev.

@@ -21,6 +21,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Fabric](https://policies.google.com/privacy)
 *   [Twitter](https://twitter.com/en/privacy)
+*   [Apple](https://www.apple.com/privacy/)
 
 **Log Data**
 

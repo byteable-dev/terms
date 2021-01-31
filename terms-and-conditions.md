@@ -17,6 +17,7 @@ Link to Terms and Conditions of third party service providers used by the app
 *   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 *   [Fabric](https://fabric.io/terms/fabric)
 *   [Twitter](https://twitter.com/en/privacy)
+*   [Apple](https://www.apple.com/privacy/)
 
 You should be aware that there are certain things that we will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
